@@ -1,0 +1,16 @@
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\Mert Private\C#\FormTxtDataSaving\FormTxtDataSaving\bin\Debug\net9.0-windows\FormTxtDataSaving.exe
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\Mert Private\C#\FormTxtDataSaving\FormTxtDataSaving\bin\Debug\net9.0-windows\FormTxtDataSaving.deps.json
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\Mert Private\C#\FormTxtDataSaving\FormTxtDataSaving\bin\Debug\net9.0-windows\FormTxtDataSaving.runtimeconfig.json
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\Mert Private\C#\FormTxtDataSaving\FormTxtDataSaving\bin\Debug\net9.0-windows\FormTxtDataSaving.dll
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\Mert Private\C#\FormTxtDataSaving\FormTxtDataSaving\bin\Debug\net9.0-windows\FormTxtDataSaving.pdb
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\Mert Private\C#\FormTxtDataSaving\FormTxtDataSaving\obj\Debug\net9.0-windows\FormTxtDataSaving.Form1.resources
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\Mert Private\C#\FormTxtDataSaving\FormTxtDataSaving\obj\Debug\net9.0-windows\FormTxtDataSaving.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\Mert Private\C#\FormTxtDataSaving\FormTxtDataSaving\obj\Debug\net9.0-windows\FormTxtDataSaving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\Mert Private\C#\FormTxtDataSaving\FormTxtDataSaving\obj\Debug\net9.0-windows\FormTxtDataSaving.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\Mert Private\C#\FormTxtDataSaving\FormTxtDataSaving\obj\Debug\net9.0-windows\FormTxtDataSaving.AssemblyInfo.cs
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\Mert Private\C#\FormTxtDataSaving\FormTxtDataSaving\obj\Debug\net9.0-windows\FormTxtDataSaving.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\Mert Private\C#\FormTxtDataSaving\FormTxtDataSaving\obj\Debug\net9.0-windows\FormTxtDataSaving.dll
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\Mert Private\C#\FormTxtDataSaving\FormTxtDataSaving\obj\Debug\net9.0-windows\refint\FormTxtDataSaving.dll
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\Mert Private\C#\FormTxtDataSaving\FormTxtDataSaving\obj\Debug\net9.0-windows\FormTxtDataSaving.pdb
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\Mert Private\C#\FormTxtDataSaving\FormTxtDataSaving\obj\Debug\net9.0-windows\FormTxtDataSaving.genruntimeconfig.cache
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\Mert Private\C#\FormTxtDataSaving\FormTxtDataSaving\obj\Debug\net9.0-windows\ref\FormTxtDataSaving.dll
