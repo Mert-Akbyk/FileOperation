@@ -1,2 +1,2 @@
 # FileOperation
-![Ana Ekran](/img/home2.png)
+![Ana Ekran](/img/home.png)
